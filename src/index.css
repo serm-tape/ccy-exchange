@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.field {
+  border: 1px solid black;
+}
+
+button {
+  background-color: white;
+  border: 1px solid black;
+  height: 60px;
+}
+
+.active-ccy {
+  background-color: gray;
+}
